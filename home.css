@@ -1,0 +1,57 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.img-content {
+  width: 50%;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/sumpah-pemuda-young-men-cheered-flags-their-hands-ai-generated-sumpah-pemuda-background-generated-young-men-288719830.jpg);
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+p,
+ol {
+  background-color: black;
+  color: white;
+  border-radius: 17px 17px 17px 17px;
+  -webkit-border-radius: 17px 17px 17px 17px;
+  -moz-border-radius: 17px 17px 17px 17px;
+} 
+
+h2 {
+  color: white;
+  text-shadow: 4px 2px 2px rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
